@@ -1,0 +1,1 @@
+Enter number:Binary representation is: 49484948
