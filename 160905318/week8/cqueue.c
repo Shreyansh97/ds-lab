@@ -7,7 +7,7 @@ int main(){
 	int num,prev;
 	char ch1,ch2;
 	NODE *head1=NULL,*head2=NULL,*head=NULL;
-	printf("Enter elements in sorted order in list 2(; to stop)\n");
+	printf("Enter elements in sorted order in list 1(; to stop)\n");
 	ch2='\0';
 	ch1='\0';
 	while(1){
